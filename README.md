@@ -19,6 +19,7 @@ I'm Jian Cong. A graduate student in the Institute of Information Engineering, C
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   </br>
+  <img alt="LLVM" src="https://img.shields.io/badge/-LLVM-DD0031?style=flat-square&logo=llvm&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-13aa52?style=flat-square&logo=java&logoColor=white" />
   <img alt="C/C++" src="https://img.shields.io/badge/-C/C++-F9A03C?style=flat-square&logo=c/c++&logoColor=white" />
 </p>
