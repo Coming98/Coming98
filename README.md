@@ -16,7 +16,7 @@ I'm Jian Cong. A graduate student in the Institute of Information Engineering, C
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-2088FF?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-936F6F?style=flat-square&logo=django&logoColor=white" />
-  <img alt="Scrapy" src="https://img.shields.io/badge/-Scrapy-321B1B?style=flat-square&logo=scrapy&logoColor=white" />  
+ 
   <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -25,6 +25,7 @@ I'm Jian Cong. A graduate student in the Institute of Information Engineering, C
   <img alt="Java" src="https://img.shields.io/badge/-Java-13aa52?style=flat-square&logo=java&logoColor=white" />
   <img alt="C/C++" src="https://img.shields.io/badge/-C/C++-F9A03C?style=flat-square&logo=c/c++&logoColor=white" />
   <img alt="Pygame" src="https://img.shields.io/badge/-Pygame-843A3A?style=flat-square&logo=pygame&logoColor=white" />
+  <img alt="Scrapy" src="https://img.shields.io/badge/-Scrapy-321B1B?style=flat-square&logo=scrapy&logoColor=white" />   
 </p>
 
 ---
