@@ -1,13 +1,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514591/5948/bongo_blob.gif?1643514591" width="30"/> Welcome! </h1>
 
-I'm Jian_cong. A graduate student in the Institute of Information Engineering, Chinese Academy of Sciences (2021-Present).
+I'm Jian_cong. A PhD student the at Khoury College of Computer Sciences at Northeastern University (2024-).
 
 [About me](mailto:jcqueue@gmail.com):
 
 - <img src="https://emojis.slackmojis.com/emojis/images/1643511285/48307/china.gif?1643511285" width="20"/>&nbsp; From China, living in Boston US. &nbsp; <img src="https://emojis.slackmojis.com/emojis/images/1643509001/41680/usa.gif?1643509001" width="20"/>
-- <img src="https://emojis.slackmojis.com/emojis/images/1643514866/8786/fb-heart.png?1643514866" width="20"/>&nbsp; My research interests lie in the realms of AI for Security and Security for AI.  <!-- Currently, I'm bury mysely in binary similarity and complier optimization. -->
-- <img src="https://emojis.slackmojis.com/emojis/images/1650008136/57723/learning.png?1650008136" width="20"/>&nbsp; Welcome to my [homepage](https://sites.google.com/view/jiancong) and [blog](https://coming98.github.io/Coming-blog/).
-- <img src="https://emojis.slackmojis.com/emojis/images/1651006360/58240/gitbook.png?1651006360" width="20"/>&nbsp; ~~I am currently pursuing a Ph.D. position for Fall 2024. If given an opportunity, I will do my best to not let you down and deliver the best results!~~ I've found a dynamic team. Stay tuned until 2024 Fall for more info here!
+- <img src="https://emojis.slackmojis.com/emojis/images/1643514866/8786/fb-heart.png?1643514866" width="20"/>&nbsp; My research interests lie in the realms of AI for Security and Security for AI.
+- <img src="https://emojis.slackmojis.com/emojis/images/1650008136/57723/learning.png?1650008136" width="20"/>&nbsp; Welcome to my [homepage](https://jiancongcui.github.io/) and [blog](https://jiancongcui.github.io/blogs/).
+- <img src="https://emojis.slackmojis.com/emojis/images/1651006360/58240/gitbook.png?1651006360" width="20"/>&nbsp; I'm part of the [SPQR Lab](https://spqrlab1.github.io/index.html) at Northeastern University. 
 
 **I have coded with ...**
 <p>
