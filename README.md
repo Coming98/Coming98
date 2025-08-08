@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643514591/5948/bongo_blob.gif?1643514591" width="30"/> Welcome! </h1>
 
-I'm Jian_cong. A PhD student the at Khoury College of Computer Sciences at Northeastern University (2024-).
+I'm Jian_cong, currently pursuing a PhD at the Khoury College of Computer Sciences, Northeastern University (since 2024).
 
 [About me](mailto:jcqueue@gmail.com):
 
